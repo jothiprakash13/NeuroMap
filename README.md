@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">NeuroMap — Brain Tumor Detection & Classification</h1>
 
 <p align="center">
